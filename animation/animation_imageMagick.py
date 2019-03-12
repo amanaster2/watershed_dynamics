@@ -3,8 +3,8 @@ Author: Amanda Manaster
 Date: 03/12/2019
 Purpose: Create animation of figures using ImageMagick
 
-*Note: must install ImageMagick to save animation.*  
-*https://imagemagick.org/script/download.php*
+Note: must install ImageMagick to save animation. 
+https://imagemagick.org/script/download.php
 """
 
 #import packages
